@@ -1,0 +1,43 @@
+┌──(rambo㉿kali)-[~/sherlock/sherlock]
+└─$ python3 sherlock.py jocksen
+[*] Checking username jocksen on:
+
+[+] AllMyLinks: https://allmylinks.com/jocksen
+[+] AskFM: https://ask.fm/jocksen
+[+] Audiojungle: https://audiojungle.net/user/jocksen
+[+] Blogger: https://jocksen.blogspot.com
+[+] Clubhouse: https://www.clubhouse.com/@jocksen
+[+] DeviantART: https://jocksen.deviantart.com
+[+] Duolingo: https://www.duolingo.com/profile/jocksen
+[+] Eintracht Frankfurt Forum: https://community.eintracht.de/fans/jocksen
+[+] Enjin: https://www.enjin.com/profile/jocksen
+[+] Freelancer: https://www.freelancer.com/u/jocksen
+[+] Freesound: https://freesound.org/people/jocksen/
+[+] G2G: https://www.g2g.com/jocksen
+[+] GitHub: https://www.github.com/jocksen
+[+] GunsAndAmmo: https://forums.gunsandammo.com/profile/jocksen
+[+] IRL: https://www.irl.com/jocksen
+[+] Kik: https://kik.me/jocksen
+[+] MMORPG Forum: https://forums.mmorpg.com/profile/jocksen
+[+] Periscope: https://www.periscope.tv/jocksen/
+[+] Quizlet: https://quizlet.com/jocksen
+[+] Reddit: https://www.reddit.com/user/jocksen
+[+] Roblox: https://www.roblox.com/user.aspx?username=jocksen
+[+] Scratch: https://scratch.mit.edu/users/jocksen
+[+] Scribd: https://www.scribd.com/jocksen
+[+] SlideShare: https://slideshare.net/jocksen
+[+] Speedrun.com: https://speedrun.com/user/jocksen
+[+] Spotify: https://open.spotify.com/user/jocksen
+[+] ThemeForest: https://themeforest.net/user/jocksen
+[+] TikTok: https://tiktok.com/@jocksen
+[+] Twitch: https://www.twitch.tv/jocksen
+[+] Twitter: https://twitter.com/jocksen
+[+] Wattpad: https://www.wattpad.com/user/jocksen
+[+] Youtube User: https://www.youtube.com/user/jocksen
+[+] ebio.gg: https://ebio.gg/jocksen
+[+] eintracht: https://community.eintracht.de/fans/jocksen
+[+] geocaching: https://www.geocaching.com/p/default.aspx?u=jocksen
+[+] last.fm: https://last.fm/user/jocksen
+[+] osu!: https://osu.ppy.sh/users/jocksen
+
+[*] Search completed with 37 results
